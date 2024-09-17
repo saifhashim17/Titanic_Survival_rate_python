@@ -1,1 +1,3 @@
-# Titanic_Survival_rate_python
+# Titanic Survival Rate Python
+
+## Objective:
